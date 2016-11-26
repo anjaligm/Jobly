@@ -1,2 +1,2 @@
-# podcast-theme
-Free Bootstrap based theme for hoisting podcasts 
+# Job Portal Theme
+Free Bootstrap based theme for Job Portal 
