@@ -34,6 +34,7 @@ h1,h2,h3,h4,h5,h6{
     margin-top: 5px;
 }
 .btn-apply{
+
     background: #1A2980;
     color: #fff;
     font-weight: 300;
@@ -41,6 +42,7 @@ h1,h2,h3,h4,h5,h6{
         padding: 18px 16px;
 }
 .btn-apply:hover{
+
     background: #1A2980;
     color: #fff;
 }
@@ -96,7 +98,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .navbar-secondary ul li.active a{
-    
+
     color: #1A2980 !important;
     background: none !important;
 }
@@ -256,7 +258,11 @@ color: #555;
    border-bottom: 1px solid #d8d8d8;
 }
 .job-details-container .inside-sec-container .perks-sec ul li{
+<<<<<<< HEAD
     color: #1A2980;
+=======
+    color: #926be9;
+>>>>>>> master
     padding-top: 10px;
     font-weight: 400;
     font-size: 16px;
