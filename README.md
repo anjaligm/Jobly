@@ -1,2 +1,2 @@
 # Job Portal Theme
-Free Bootstrap based theme for Job Portal 
+Free Bootstrap based theme for job portal 
